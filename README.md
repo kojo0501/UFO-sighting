@@ -32,4 +32,16 @@ The filterTable function takes the key from the filters variable and identifies 
 The buildTable function pulls in the filteredData variable to construction a new table that shows only the filtered data.
 ![4buildfilteredtable](https://user-images.githubusercontent.com/24308495/144783234-4b9ae0d4-eb75-4ab1-aaad-f6b3051f0f0b.PNG)
 
-## 
+## Summary
+
+### Website Drawback
+A major drawback to the website is that there is no filter for the comments. The current filters look for exact matches, so the code used for those would have to be adapted to permit partial matches if a comments filter were to be added.
+
+### Recommendations
+
+#### Interactive Map
+Right now, the location information is based on city, but there is no clean way to filter the data in a way to show the same sighting in multiple cities. If the cities were geographically mapped onto an interactive graphic, instead of on a table, when filters are added for date, the user could identify if multiple cities in close proximity to each other had similar sightings. It's possible this could be used to identify the potential trajectories for a UFO.
+
+
+#### Sighting Submission Form
+Another recommendation would be to add a submission form for new UFO entries. By collecting more data on sightings, this website could be used to organize information within the UFO community.
